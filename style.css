@@ -14,7 +14,8 @@ h2{
     padding-bottom: 0px;
     }
 .bg{
-    background: url('https://github.com/KlarsheneAyaay/IT137Ayaay/blob/master/bgImg.jpg') 
+        <img src="/KlarsheneAyaay/IT137Ayaay/blob/master/bgImg.jpg?raw=true" alt="bgImg.jpg">
+    
     no-repeat center center fixed; 
     background-size: cover; 
     width: 100%; 
