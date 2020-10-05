@@ -14,7 +14,7 @@ h2{
     padding-bottom: 0px;
     }
 .bg{
-    background-image: url "https://github.com/KlarsheneAyaay/IT137Ayaay/blob/master/bgImg.jpg"
+    background-image: url ('E:/3RD YEAR/PROGRAMMING/LogInForm/bgImg.jpg')
     no-repeat center center fixed; 
     background-size: cover; 
     width: 100%; 
