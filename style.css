@@ -14,8 +14,7 @@ h2{
     padding-bottom: 0px;
     }
 .bg{
-        <img src="/KlarsheneAyaay/IT137Ayaay/blob/master/bgImg.jpg?raw=true" alt="bgImg.jpg">
-    
+    ![Alt desc]('https://github.com/KlarsheneAyaay/IT137Ayaay/blob/master/bgImg.jpg') 
     no-repeat center center fixed; 
     background-size: cover; 
     width: 100%; 
